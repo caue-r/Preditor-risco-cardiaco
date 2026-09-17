@@ -135,3 +135,9 @@ Faixas de risco: **Baixo** (< 15%), **Moderado** (15–35%), **Alto** (35–60%)
 ## Dados
 
 [Heart Disease Health Indicators Dataset](https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset) — derivado do [BRFSS 2015](https://www.cdc.gov/brfss/annual_data/annual_2015.html) do CDC. Variável-alvo: `HeartDiseaseorAttack`.
+
+---
+
+## Licença
+
+Distribuído sob a [Licença MIT](LICENSE).
